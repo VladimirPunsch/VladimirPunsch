@@ -56,7 +56,7 @@ I'm preparing and publishing projects here. Until public repositories are availa
 
 <div align="center">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VladimirPunsch&bg_color=00000000&color=C9D1D9&line=8AB4F8&point=FFFFFF&area=true&area_color=8AB4F8&hide_border=true)](https://github.com/VladimirPunsch)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VladimirPunsch&bg_color=0D1117&color=C9D1D9&line=8AB4F8&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="GitHub activity graph for VladimirPunsch" width="100%" />
 
 </div>
 
