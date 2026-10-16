@@ -56,8 +56,6 @@ I'm preparing and publishing projects here. Until public repositories are availa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VladimirPunsch&bg_color=0D1117&color=C9D1D9&line=8AB4F8&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="GitHub activity graph for VladimirPunsch" width="100%" />
-
 </div>
 
 <sub>Stats and contribution visualizations are provided by third-party services and may take time to update or occasionally be unavailable.</sub>
