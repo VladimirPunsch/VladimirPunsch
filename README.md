@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="VladimirPunsch — Building useful things. Learning by shipping." width="100%" />
-
-<br />
-
 # Hi, I'm Vlad.
 
 **Developer in progress · Curious by default · Focused on building useful things**
